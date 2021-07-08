@@ -29,6 +29,7 @@ A **Web-App** which provides you facilities like Video-Calling and group chattin
 ![image](https://user-images.githubusercontent.com/69220037/124859195-10ea1c80-dfcd-11eb-90aa-936461334dff.png)
 
 ## Preview for Video Call App
-![image](https://user-images.githubusercontent.com/69220037/124866025-5ad8ff80-dfd9-11eb-8dd5-a0c48955a6d5.png)
+![image](https://user-images.githubusercontent.com/69220037/124870939-0fc2ea80-dfe1-11eb-99d0-c224c5fb049e.png)
+
 
 
