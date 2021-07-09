@@ -23,7 +23,7 @@ So, If you want a application as a client and developer says they will deliver t
 </ul>
 So, what happens in waterfall after you switch a phase you cannot go back so if client want to add some new feature it's not possible that is changes are not welcomed in later phase of the process.
 
-#### Waterfall has some issue
+#### Waterfall has some issues
 <ul>
   <li><b>The time to market is very slow</b></li>
   <p>If you want to build a software now it's going to take some time to build the entire software and the market is somewhere else in that span of time so if you want to build your app start with the small and important feature now.</p>
@@ -46,7 +46,40 @@ They had given 12 principles and 4 values so if you are following those you are 
   <li><p>You should welcome changes even in the end because in the initial phase client also did not know what he want so you start building with MVP(Minimum Viable Product)</p></li>
   
  So, you can read more about these principles here https://agilemanifesto.org/
+
+We all know if we want to make modern software in this world we cannot directly go for waterfall model. One of the framework by which we can implement agile is `SCRUM` we have other options to but widely used framework is SCRUM.
+  
+## SCRUM
+### A better way of building products.
+<ul>
+  <li>Lightweight</li>
+  <li>Easy to implement</li>
+  <li>Difficult to master</li>
+</ul>
+  
+### Scrum Framework
+![image](https://user-images.githubusercontent.com/69220037/125119402-afca6200-e10e-11eb-812f-6c4a4fb519ec.png)
+
+## How I implemented agile methodology using Scrum framework??
+So, we have to build a product like MS-Teams clone in our case so we know that MS-Teams have so many features. So, we priortize some requirement like in our case is to build a minimum requirement for qualifying that was to build a functional prototype in which two people can have video conversation with each other and then we start working on product but if you make use of scrum it normally goes with sprints. So, as in our case to complete the task we have one-month but our client or to be more specific our mentor will not be waiting for entire month to deliver this so what we can do is to give something which is potentially deployable product. So, to implement this what we will do we take some important requirement for a particular sprint(which is 1 week in my case).
+  
+Now, we have product backlog which have all the requirements from start of the project to the end but agile allows us to make changes even in later phase of development so it's not fixed. So, we will take some backlog that is going to be sprint backlog but before this you need to plan well so in the upcoming week you will work on that particular part. And after completion of each sprint we give increment that is **potentially deployable product** to our mentors but it may happen that in particular week you are not able to complete all which you have decided for that particular sprint so you can send that backlog for next week with some other feature but before the start of next sprint you are going to have sprint retrospective that is discussion with mentors what you are able to achieve?, What are your backlogs? , What are you plans for next week?
+
+**Here, below in table I have summarised how my scrum board looks like for this project which briefly describes about my backlogs, my plans for next week, how much I was able to achieve**
+  
+
+So, all the participants are actually going to thank microsoft because not only just keep working on task which we were assigned we also got a chance to experience the **adopt stage** of agile.
+So, basically what happened that in the last week of this project we were assigned a new task that was like we need to adopt with changes that as a client they are demanding from us to add a new feature in our prototype that was to build a Chat App.
+As, we were following agile methodology we were able to achieve this easily even in later phase of the development of project.
  
+## So, this is how I applied the agile methodology while creating the solution for the challenge assigned to us.
+### Be Agile!!
+
+
+
+ 
+
+
  
   
  
