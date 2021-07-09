@@ -47,6 +47,11 @@ A **Web-App** which provides you facilities like Video-Calling and group chattin
 ### Click on **START VIDEO** or **START CHAT** to start video call conversation or group-chat respectively.
 ![image](https://user-images.githubusercontent.com/69220037/124892914-e8c3e300-dff7-11eb-9b65-1ee8a4ab67db.png)
 
+If you want to know in detail visit `MS-Teams Website` Folder or you can visit my git hub repository https://github.com/nikitasingh2001/MS-Teams-Website
+
+
+
+
 ## Video-App
 
 MS-TEAMS VIDEO CALL APP
@@ -91,6 +96,9 @@ Open [http://localhost:3000](http://localhost:3000) to view running app it in th
 The page will reload if you make edits.<br />
 
 If you want to know in detail visit `MS-Teams Video Calling App` Folder or you can visit my git hub repository https://github.com/nikitasingh2001/MS-TEAMS-VIDEOCHAT-APP
+
+
+
 
 ## Chat-App
 MS-TEAMS CHAT APP
