@@ -18,16 +18,16 @@ So, If you want a application as a client and developer says they will deliver t
   <li>Design</li>
   <li>Code</li>
   <li>Test</li>
-  <li>Deploy<li>
+  <li>Deploy</li>
   <li>Maintain</li>
 </ul>
 So, what happens in waterfall after you switch a phase you cannot go back so if client want to add some new feature it's not possible that is changes are not welcomed in later phase of the process.
 
-**Waterfall has some issue**
+##### Waterfall has some issue
 <ul>
-  <li>The time to market is very slow</li>
+  <li><b>The time to market is very slow</b></li>
   <p>If you want to build a software now it's going to take some time to build the entire software and the market is somewhere else in that span of time so if you want to build your app start with the small and important feature now.</p>
-  <li>Very difficult if client want some changes in between</li>
+  <li><b>Very difficult if client want some changes in between</b></li>
   <p>So, if you have to understand your client as well as market, because market is changing very fast and if client is investing his money he want something which can beat market so you have to accept client changes.</p>
 </ul>
   
