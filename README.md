@@ -25,6 +25,10 @@ To view a demo of the execution of the project, download the repo, and then open
     <li>
       <a href="#chat-App">Chat-App</a>
     </li>
+    <li>
+      <a href="#Contributing">Contributing</a>
+    </li>
+
   </ul>
 </details>
 
@@ -141,6 +145,17 @@ The page will reload if you make edits.<br />
 
 If you want to know in detail visit `MS-Teams Chat App` Folder or you can visit my git hub repository https://github.com/nikitasingh2001/MSTeamsChatApp
 
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 
 
