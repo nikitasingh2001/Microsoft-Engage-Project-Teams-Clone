@@ -90,6 +90,7 @@ Use this command to run the app in the development mode that will run the server
 Open [http://localhost:3000](http://localhost:3000) to view running app it in the browser. 
 The page will reload if you make edits.<br />
 
+### If you want to know in detail visit `MS-Teams Video Calling App` Folder or you can visit my git hub repository https://github.com/nikitasingh2001/MS-TEAMS-VIDEOCHAT-APP
 
 ## Chat-App
 MS-TEAMS CHAT APP
@@ -130,6 +131,9 @@ Run this to install all dependencies required for the app to run
 Use this command to run the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view running app it in the browser. 
 The page will reload if you make edits.<br />
+
+### If you want to know in detail visit `MS-Teams Chat App` Folder or you can visit my git hub repository https://github.com/nikitasingh2001/MSTeamsChatApp
+
 
 
 
