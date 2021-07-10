@@ -170,7 +170,7 @@ As, we were following agile methodology we were able to achieve this easily even
 ## So, this is how I applied the agile methodology while creating the solution for the challenge assigned to us.
 ### Be Agile!!
 
-
+#### If you want to read in detail about agile do visit Agile.md file 
 
 
 <!-- CONTRIBUTING -->
