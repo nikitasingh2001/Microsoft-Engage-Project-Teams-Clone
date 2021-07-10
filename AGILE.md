@@ -67,6 +67,11 @@ Now, we have product backlog which have all the requirements from start of the p
 
 **Here, below in table I have summarised how my scrum board looks like for this project which briefly describes about my backlogs, my plans for next week, how much I was able to achieve**
   
+**For the first two weeks-**
+![image](https://user-images.githubusercontent.com/69220037/125159468-2742d480-e195-11eb-85c0-000ac1ce0c66.png)
+
+**For the next two weeks-**
+![image](https://user-images.githubusercontent.com/69220037/125159505-6d983380-e195-11eb-919f-1c70b5f8d3cf.png)
 
 So, all the participants are actually going to thank microsoft because not only just keep working on task which we were assigned we also got a chance to experience the **adopt stage** of agile.
 So, basically what happened that in the last week of this project we were assigned a new task that was like we need to adopt with changes that as a client they are demanding from us to add a new feature in our prototype that was to build a Chat App.
