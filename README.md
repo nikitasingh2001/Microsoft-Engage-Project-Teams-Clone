@@ -26,6 +26,9 @@ To view a demo of the execution of the project, download the repo, and then open
       <a href="#chat-App">Chat-App</a>
     </li>
     <li>
+      <a href="#Agile">How I implemented Agile methodology during my project phase?</a>
+    </li>
+    <li>
       <a href="#Contributing">Contributing</a>
     </li>
 
@@ -144,6 +147,30 @@ Open [http://localhost:3000](http://localhost:3000) to view running app it in th
 The page will reload if you make edits.<br />
 
 If you want to know in detail visit `MS-Teams Chat App` Folder or you can visit my git hub repository https://github.com/nikitasingh2001/MSTeamsChatApp
+
+
+## Agile
+### How I implemented agile methodology using Scrum framework??
+So, we have to build a product like MS-Teams clone in our case so we know that MS-Teams have so many features. So, we priortize some requirement like in our case is to build a minimum requirement for qualifying that was to build a functional prototype in which two people can have video conversation with each other and then we start working on product but if you make use of scrum it normally goes with sprints. So, as in our case to complete the task we have one-month but our client or to be more specific our mentor will not be waiting for entire month to deliver this so what we can do is to give something which is potentially deployable product. So, to implement this what we will do we take some important requirement for a particular sprint(which is 1 week in my case).
+  
+Now, we have product backlog which have all the requirements from start of the project to the end but agile allows us to make changes even in later phase of development so it's not fixed. So, we will take some backlog that is going to be sprint backlog but before this you need to plan well so in the upcoming week you will work on that particular part. And after completion of each sprint we give increment that is **potentially deployable product** to our mentors but it may happen that in particular week you are not able to complete all which you have decided for that particular sprint so you can send that backlog for next week with some other feature but before the start of next sprint you are going to have sprint retrospective that is discussion with mentors what you are able to achieve?, What are your backlogs? , What are you plans for next week?
+
+**Here, below in table I have summarised how my scrum board looks like for this project which briefly describes about my backlogs, my plans for next week, how much I was able to achieve**
+  
+**For the first two weeks-**
+![image](https://user-images.githubusercontent.com/69220037/125159468-2742d480-e195-11eb-85c0-000ac1ce0c66.png)
+
+**For the next two weeks-**
+![image](https://user-images.githubusercontent.com/69220037/125159505-6d983380-e195-11eb-919f-1c70b5f8d3cf.png)
+
+So, all the participants are actually going to thank microsoft because not only just keep working on task which we were assigned we also got a chance to experience the **adopt stage** of agile.
+So, basically what happened that in the last week of this project we were assigned a new task that was like we need to adopt with changes that as a client they are demanding from us to add a new feature in our prototype that was to build a Chat App.
+As, we were following agile methodology we were able to achieve this easily even in later phase of the development of project.
+ 
+## So, this is how I applied the agile methodology while creating the solution for the challenge assigned to us.
+### Be Agile!!
+
+
 
 
 <!-- CONTRIBUTING -->
