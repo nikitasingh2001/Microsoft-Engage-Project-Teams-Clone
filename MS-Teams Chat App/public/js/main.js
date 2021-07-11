@@ -93,7 +93,7 @@ document.getElementById('leave-btn').addEventListener('click', () => {
 document.getElementById('join-meet').addEventListener('click', () => {
   const meetRoom = confirm('Are you sure you want to start the new meeting?');
   if (meetRoom) {
-    window.location.href = 'https://video-chat-app-v1.herokuapp.com/';
+     window.open('https://video-chat-app-v1.herokuapp.com/',"_blank");
   } else {
   }
 });
